@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WAYNA intelenge",
+  "description": "A minimalist, Apple-inspired super app for fundraising, content creation, digital products, and reputation tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
